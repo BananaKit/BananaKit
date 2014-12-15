@@ -374,6 +374,7 @@
 				83F72C6B1A3E89F400E6C9F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		83F72C6C1A3E89F400E6C9F8 /* Build configuration list for PBXNativeTarget "BananaKitTests" */ = {
 			isa = XCConfigurationList;
@@ -382,6 +383,7 @@
 				83F72C6E1A3E89F400E6C9F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
