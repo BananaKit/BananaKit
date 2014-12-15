@@ -14,4 +14,4 @@ Upcoming subprojects:
 - Smoothie: Integration testing tools. Slippin up bugs one at a time.
 - AsyncBanana: Easy to use wrappers for GCD and NSOperation
 
-Originally developed by [@modocache](https://twitter.com/modocache), BananaKit is also an indispensible cluster of concepts for talking about code.
+Originally developed by [@modocache](https://twitter.com/modocache), BananaKit is also an indispensible bunch of concepts for talking about code.
