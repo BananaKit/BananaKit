@@ -1,7 +1,9 @@
 BananaKit
 =========
+<img src="https://raw.githubusercontent.com/BananaKit/BananaKit/master/Bananas.png" width="120" >
 
 [![Build Status](https://travis-ci.org/BananaKit/BananaKit.svg?branch=travis)](https://travis-ci.org/BananaKit/BananaKit)
+
 
 BananaKit is an appealing abstraction of common patterns and tools that were extracted from some of the largest and most successful apps in the app store.
 
