@@ -13,4 +13,3 @@ Upcoming subprojects:
 - AsyncBanana: Easy to use wrappers for GCD and NSOperation
 
 Originally developed by [@modocache](https://twitter.com/modocache), BananaKit is also an indispensible cluster of concepts for talking about code.
->>>>>>> updated README with more descriptive details
